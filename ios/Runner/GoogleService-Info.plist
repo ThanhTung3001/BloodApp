@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>514526052213-ed1fdbmj73eh0oi485t629vvk0h87bbp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.514526052213-ed1fdbmj73eh0oi485t629vvk0h87bbp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyARvIhcxnf34Ne1tPKLsGWyj8dWs7ItUFM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>514526052213</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bankblood.app</string>
+	<key>PROJECT_ID</key>
+	<string>bankblood-96329</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bankblood-96329.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:514526052213:ios:a6ea070dec4d6a25ae1d3c</string>
+</dict>
+</plist>
